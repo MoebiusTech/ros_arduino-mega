@@ -5,7 +5,7 @@ First, you need to install a virtual machine and Linux operating system. Refer t
 Store link: [Moebius Technology](https://www.aliexpress.com/store/5248059?spm=a2g0o.store_home.pcShopHead_352031876.0)
 
 ## 目录:
-- [一、ROS basis(](#ROS basis()
+- [一、ROS basis(](#ROS basis)
     - ROS Common keywords
     - File system concept
 - [二、Environment setup](#Environment setup)
