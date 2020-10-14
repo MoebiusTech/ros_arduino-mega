@@ -4,6 +4,9 @@ First, you need to install a virtual machine and Linux operating system. Refer t
 > Continuous improvement... If you have any questions, please contact the author for feedback. Please indicate the source for reprinting.
 Store link: [Moebius Technology](https://www.aliexpress.com/store/5248059?spm=a2g0o.store_home.pcShopHead_352031876.0)
 
+>Mega 2560 expansion board information refer to this link
+https://github.com/MoebiusTech/MecanumRobot-ArduinoMega2560
+
 > Mirror and other information links
 https://drive.google.com/drive/folders/1FbEeWd4VyqahfnX3yiib85Xs_cBSabZK?usp=sharing
 
