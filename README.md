@@ -3,6 +3,7 @@ First, you need to install a virtual machine and Linux operating system. Refer t
 
 > Continuous improvement... If you have any questions, please contact the author for feedback. Please indicate the source for reprinting.
 Store link: [Moebius Technology](https://www.aliexpress.com/store/5248059?spm=a2g0o.store_home.pcShopHead_352031876.0)
+Mirror and other information links https://drive.google.com/drive/folders/1FbEeWd4VyqahfnX3yiib85Xs_cBSabZK?usp=sharing
 
 ## 目录:
 - [一、ROS basis(](#ROS basis)
